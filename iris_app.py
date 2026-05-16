@@ -104,4 +104,4 @@ st.markdown("""
 <p style='text-align: center; font-size: 14px; color: #888;'>
     Model: K-Nearest Neighbors | Data: Iris Dataset <br>
     Created with Streamlit and powered by Colab.
-</p>
+</p>)

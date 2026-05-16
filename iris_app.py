@@ -73,8 +73,7 @@ except FileNotFoundError:
 st.title("🌸 Iris Species Predictor 🌸")
 st.markdown("### Discover the species of an Iris flower based on its physical characteristics.")
 
-st.write("
-") # Add some space
+st.write("") # Add some space
 
 with st.sidebar:
     st.header("Flower Measurements")

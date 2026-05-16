@@ -1,5 +1,4 @@
-
-import streamlit as st
+import streamlit as s
 import joblib
 import numpy as np
 
@@ -107,4 +106,3 @@ st.markdown("""
     Model: K-Nearest Neighbors | Data: Iris Dataset <br>
     Created with Streamlit and powered by Colab.
 </p>
-""", unsafe_allow_html=True)
